@@ -1,0 +1,78 @@
+@import url('https://fonts.googleapis.com/css?family=Merriweather');
+
+@import url('https://fonts.googleapis.com/css?family=Aclonica');
+
+@import url('https://fonts.googleapis.com/css2?family=Anton');
+
+.jumbotron{
+	background-image: url("bdedf69f52a983da911a65ff22bf5b32.jpg");
+	font-family: Anton;
+	text-align: center;
+	font-size: 100px
+
+}
+
+.pra1{
+	font-family: Aclonica;
+	background-color: white;
+	border: 50px solid green;
+	padding: 10px;
+	margin: 10px;
+}
+
+#col1{
+	font-family: Merriweather;
+	background-color: pink;
+	border: 5px solid #e4f2e4;
+	
+
+
+}
+
+#col2{
+	font-family: Merriweather;
+	background-color: yellow;
+	border: 5px solid #e4f2e4;
+	
+}
+
+#col3{
+	font-family: Merriweather;
+	background-color: #40e7ed;
+	border: 5px solid #e4f2e4;
+
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fot1{
+
+	background-color: yellow;
+	width: 1155px
+}
+
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+
+/* Set a specific color for each brand */
+
+/* Facebook */
+.fa-facebook {
+	align-items: center;
+  background: #3B5998;
+  color: white;
+}
+
+/* Twitter */
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+}
