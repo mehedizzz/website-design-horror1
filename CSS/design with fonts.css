@@ -43,36 +43,41 @@
 
 }
 
+
+
+.fot1{
+	text-align: center;
+
+	background-color: yellow;
+	width: 1166px;
+	margin-top: -23px;
+	margin-left: -13px;
+	height: 75px;
+}
+
+#but1{
+	
+    margin-right: 100px;
+	font-size: 50px;
+}
+
+#but2{
+	margin-right: 100px;
+	font-size: 50px;
+}
+
+.fa:hover {
+  color: red;
+}
+
 .fa {
   padding: 20px;
   font-size: 30px;
-  width: 50px;
+  width: 100px;
   text-align: center;
   text-decoration: none;
 }
 
-.fot1{
 
-	background-color: yellow;
-	width: 1155px
-}
 
-/* Add a hover effect if you want */
-.fa:hover {
-  opacity: 0.7;
-}
 
-/* Set a specific color for each brand */
-
-/* Facebook */
-.fa-facebook {
-	align-items: center;
-  background: #3B5998;
-  color: white;
-}
-
-/* Twitter */
-.fa-twitter {
-  background: #55ACEE;
-  color: white;
-}
